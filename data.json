@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Chelsea",
+    "votes": 100
+  },
+  {
+    "name": "Arsenal",
+    "votes": 70
+  },
+  {
+    "name": "Liverpool",
+    "votes": 250
+  },
+  {
+    "name": "Manchester City",
+    "votes": 689
+  },
+  {
+    "name": "Manchester United",
+    "votes": 150
+  }
+]
